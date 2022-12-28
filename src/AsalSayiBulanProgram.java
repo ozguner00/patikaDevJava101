@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AsalSayıBulanProgram {
+public class AsalSayiBulanProgram {
     //Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan programı yazın.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
